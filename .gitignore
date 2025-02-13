@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/.xml
+/.idea/
+./ipynb_checkpoints/
+/.DS_Store/
+.env
